@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Open Minecraft Preview in Microsoft Store</title>
+  <script>
+    window.onload = function() {
+      // Attempt to open the Store app using the ms-windows-store URI
+      window.location.href = "ms-windows-store://pdp/?productid=9p5x4qvlc2xr";
+      // As fallback, open the web URL
+      setTimeout(function() {
+        window.location.href = "https://www.xbox.com/en-US/games/store/minecraft-preview-for-windows/9p5x4qvlc2xr";
+      }, 1000);
+    };
+  </script>
+</head>
+<body>
+  <p>Redirecting to Microsoft Store...</p>
+</body>
+</html>
