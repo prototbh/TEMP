@@ -1,0 +1,10 @@
+Open Windows Security: Search for "Windows Security" in the Start menu and launch it.
+Go to Device Security: Click "Device security" in the left sidebar.
+Core Isolation Details: Click "Core isolation details."
+Turn Off Memory Integrity: Toggle the "Memory integrity" switch to Off. If prompted, confirm and restart your PC
+
+copy and open the link and download the file run the setup aswell the second link 
+https://www.microsoft.com/en-us/download/details.aspx?id=6812&msockid=15ee8654045a684d1ec19034059a692f
+https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
+
+after all that enjoy run MysticSwooferAIO.exe AS FUCKING ADMIN!
