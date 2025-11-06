@@ -1,3 +1,3 @@
 Privacy Policy for PFTP (ftv2)
 
-PFTP (ftv2) does not collect, store, or share any personal information. The app only checks if it has access to a specified path on your device and displays “Accepted” or “Failed.” No other data is accessed, tracked, or transmitted.
+PFTP (ftv2) does not collect, store, or share any personal information. The game only checks if it has access to a specified path on your device and displays “Accepted” or “Failed.” No other data is accessed, tracked, or transmitted.
