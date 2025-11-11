@@ -1,0 +1,46 @@
+PFTP Installer Privacy Policy
+
+Effective Date: November 10, 2025
+
+1. Information We Collect
+The PFTP Installer temporarily collects and stores the following information:
+
+Activation Code: The unique code entered to activate the PFTP application.
+
+No other personal information (such as your name, email, or device data) is collected or transmitted by the installer.
+
+2. Purpose of Collection
+The activation code is collected and stored only to:
+
+Verify and activate your copy of PFTP.
+
+Persist activation so you do not need to re-enter your code on subsequent uses.
+
+The code is stored locally on your device (in the installer settings and in the Downloads folder) and is only transmitted to our secure activation server to verify authenticity.
+
+3. Data Storage and Retention
+
+The activation code is saved temporarily on your device until your copy of PFTP is successfully activated.
+
+Once activation is complete, the installer does not retain any additional personal information.
+
+Users may clear their activation data using the reset function in the installer.
+
+4. Data Sharing
+
+The installer does not share your activation code or any personal information with third parties except for secure verification with the PFTP activation server.
+
+All communications with the server are encrypted over HTTPS.
+
+5. Security
+We take reasonable measures to protect your activation code from unauthorized access while stored locally.
+However, because the code is stored on your device, please do not share your device or the activation code with others.
+
+6. Your Rights
+
+You can reset the installer to remove your activation code at any time using the reset feature.
+
+No additional personal data is collected, so there is no further user data to request or delete.
+
+7. Changes to this Policy
+We may update this Privacy Policy occasionally. The latest version will always be available within the installer or on the official PFTP website.
