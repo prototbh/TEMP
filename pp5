@@ -1,0 +1,78 @@
+CheckItX – Privacy Policy
+Last Updated: November 2025
+
+Thank you for using CheckItX. This app is designed solely for testing permission access on Windows apps. Its purpose is to let you choose a file path or feature and check whether a UWP application could access it — nothing more.
+
+1. No Personal Data Collected
+CheckItX does not collect, store, transmit, or share any personal information.
+- No usernames
+- No files
+- No browsing or activity data
+- No account information
+- No location data
+- No contacts, messages, images, videos, or audio
+All operations occur only on your device.
+
+2. Permissions & Capabilities
+CheckItX requests a large number of Windows capabilities ONLY for testing purposes. The app does not actually use or access most of these permissions, even if they appear in the manifest.
+
+Capabilities Declared:
+internetClient
+internetClientServer
+objects3D
+picturesLibrary
+systemManagement
+broadFileSystemAccess
+allJoyn
+appointments
+backgroundMediaPlayback
+blockedChatMessages
+chat
+codeGeneration
+contacts
+enterpriseAuthentication
+graphicsCapture
+lowLevelDevices
+musicLibrary
+offlineMapsManagement
+phoneCall
+phoneCallHistoryPublic
+privateNetworkClientServer
+remoteSystem
+removableStorage
+sharedUserCertificates
+spatialPerception
+userAccountInformation
+userDataTasks
+userNotificationListener
+videosLibrary
+voipCall
+bluetooth
+gazeInput
+location
+lowLevel
+microphone
+pointOfService
+proximity
+webcam
+
+Important Note:
+CheckItX does NOT actively use 90%+ of these permissions. It does not access your camera, microphone, contacts, messages, call history, location, removable storage, chat content, appointments, or any other personal system data. These capabilities exist only so users can test how Windows would treat an app that requests them.
+
+3. How CheckItX Works
+You enter a path or resource.
+The app checks whether the current permissions allow access.
+The app displays a result (allowed or denied).
+No file content is opened, stored, copied, transmitted, or analyzed.
+
+4. Third-Party Sharing
+CheckItX does not share any information with third parties. No analytics, trackers, ads, or logging are used.
+
+5. Security
+Since CheckItX does not collect or transmit data, no personal information is at risk. All operations happen locally on your device.
+
+6. Changes to This Policy
+If CheckItX ever gains new features requiring privacy changes, this policy will be updated. You will always be able to review the latest version.
+
+7. Contact
+If you have questions about this Privacy Policy or CheckItX, you may contact the developer.
