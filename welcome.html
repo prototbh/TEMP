@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Respawn Browser</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        :root {
+            --blue: #2fb4ff;
+            --green: #2dffb0;
+            --glow: rgba(47, 255, 176, 0.6);
+        }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Segoe UI", system-ui, sans-serif;
+        }
+        body {
+            height: 100vh;
+            background: url("bg.png") no-repeat center center fixed;
+            background-size: cover;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+        .overlay {
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(
+                circle at center,
+                rgba(0, 0, 0, 0.25),
+                rgba(0, 0, 0, 0.85)
+            );
+        }
+        .container {
+            position: relative;
+            z-index: 2;
+            text-align: center;
+            padding: 45px 80px;
+            border-radius: 22px;
+            backdrop-filter: blur(12px);
+            background: rgba(0, 0, 0, 0.35);
+            box-shadow: 0 0 60px rgba(0, 0, 0, 0.8);
+        }
+        .logo {
+            width: 155px;
+            margin-bottom: -30px;
+            filter: drop-shadow(0 0 18px var(--glow));
+        }
+        h1 {
+            font-size: 2.6rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+            background: linear-gradient(90deg, var(--blue), var(--green));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-top: 0;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.05rem;
+            opacity: 0.85;
+            max-width: 420px;
+            margin: 0 auto 18px;
+        }
+        .hint {
+            font-size: 0.9rem;
+            opacity: 0.55;
+            letter-spacing: 0.5px;
+        }
+        footer {
+            position: absolute;
+            bottom: 25px;
+            width: 100%;
+            text-align: center;
+            font-size: 0.8rem;
+            opacity: 0.35;
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay"></div>
+    <div class="container">
+        <img src="logo.png" alt="Respawn Logo" class="logo">
+        <h1>RESPAWN</h1>
+        <p>
+            A fresh start for browsing.
+            Fast, clean, and built to feel right.
+        </p>
+        <div class="hint">
+            Hello user — to get started, please click your left thumbstick
+        </div>
+    </div>
+    <footer>
+        Respawn Browser © 2026
+    </footer>
+</body>
+</html>
