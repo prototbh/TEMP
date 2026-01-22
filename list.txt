@@ -1,6 +1,2 @@
 
 
-
-ipv4_127.0.0.1
-ricemerchant_
-prototbh
