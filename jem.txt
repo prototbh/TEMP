@@ -1,1 +1,46 @@
+# Privacy Policy for Wormer
 
+**Last Updated:** April 7, 2026
+
+Thank you for choosing to be part of our community by playing **Wormer** ("the App"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us.
+
+When you use the App, we appreciate that you are trusting us with your information. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it.
+
+Please read this privacy notice carefully as it will help you understand what we do with the information that we collect.
+
+## 1. Information We Collect
+
+**In short:** *We do not collect, store, or transmit any of your personal data.*
+
+The App operates entirely locally on your device. We do not collect personal information, usage data, telemetry, analytics, or IP addresses. 
+
+### Local Data Storage
+The App may save local game data (such as high scores or settings) directly to your device's local storage (e.g., your Windows Packages directory). This data is stored locally on your device, is never transmitted to us or any third-party servers, and remains entirely under your control.
+
+## 2. Windows Capabilities and Permissions
+
+The App requests the following Windows capabilities for functional purposes:
+
+*   **Internet Client (`internetClient`):** Required by the Windows operating system for standard app functionality. We do not use this to transmit your personal data.
+*   **Broad File System Access (`broadFileSystemAccess`):** This is required solely to save and load your local game progress (e.g., High Scores) to your local AppData directory. The App does not read, access, or modify files outside of the intended game save folders.
+*   **Run Full Trust (`runFullTrust`):** Required for the App's helper processes and packaging structure to run optimally on Windows Desktop.
+
+None of these permissions are used to collect or harvest personal data.
+
+## 3. Will Your Information Be Shared With Anyone?
+
+**In short:** *No, because we don't collect any.*
+
+Since we do not collect, store, or process any personal data, we have nothing to share, sell, or rent to third parties.
+
+## 4. How Long Do We Keep Your Information?
+
+Since we do not collect your information, we do not retain any data. Your local game saves remain on your device until you choose to uninstall the App or manually delete the files.
+
+## 5. Changes to This Privacy Notice
+
+We may update this privacy notice from time to time. The updated version will be indicated by an updated "Last Updated" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+
+## 6. Contact Us
+
+If you have questions or comments about this notice, you may contact the developer via the Microsoft Store listing or the associated developer support channels.
