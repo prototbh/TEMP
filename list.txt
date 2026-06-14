@@ -12,3 +12,4 @@ sniper116
 whisperiu
 am_hide
 am_hide
+capehrx
